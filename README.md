@@ -4,7 +4,7 @@ A full-stack movie review app where people sign in, browse movies, and rate and 
 
 > **About this repository:** The source code is kept in a private course repository. This page is a showcase of the project and my contributions. Code is available on request.
 
-![MovieLog dashboard](movielog.jpg)
+![MovieLog dashboard](movielog.png)
 
 ## My role
 
